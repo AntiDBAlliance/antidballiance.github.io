@@ -1,16 +1,7 @@
-# 电子灵堂
+# djyrip
 
-[在线演示 Demo](https://asoulfucker.github.io/Lingtang_OnInternet/)
+[本仓库内容已在我的GitHub网站上部署，点击此处预览。（预览版本可能与本仓库内容不同）](https://fbimay0.github.io/djyrip/index.html)
 
-#### 优点
- - 样式简单，一目了然。
- - 可随意新添内容，搭配性好。
- - 配置简单。
+## 自己的话
 
-#### 使用
-
-叉下来本项目，修改 index.html 头部中的配置。
-
-修改 name，introduction，picture 等参数。
-
-完成。
+戴嘉亿你能不能去死啊
